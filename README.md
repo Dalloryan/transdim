@@ -9,7 +9,7 @@
 
 ![logo](https://github.com/xinychen/transdim/blob/master/images/transdim_logo_large.png)
 
-Machine learning models make important developments in the field of spatiotemporal data modeling - like how to forecast near-future traffic states of road networks. But what happens when these models are built on incomplete data commonly collected from real-world systems (e.g., transportation system)?
+Machine learning models make important developments in the field of spatiotemporal data modeling - like how to forecast near-future traffic states of road networks. But what happens when these models are built, on incomplete data commonly collected from real-world systems (e.g., transportation system)?
 
 <br>
 
